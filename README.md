@@ -6,7 +6,7 @@ I build **web and mobile applications** with modern technologies to create impac
 ---
 
 ### 🔭 I’m currently working on
-- **Gojo Student Platform** – An interactive learning platform for schools.  
+- **Gojo Platform** – An interactive learning platform.  
 - Personal projects in **React Native**, **Flutter**, and **Firebase**.
 
 ### 🌱 I’m currently learning
