@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi there 👋, I’m Ephrem Tesema
 
 💻 **Full-Stack Developer | UI/UX Designer**  
