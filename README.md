@@ -24,8 +24,8 @@ I build **web and mobile applications** with modern technologies to create impac
 - Full-Stack Architecture & Project Management
 
 ### 📫 How to reach me
-- **Email:** [youremail@example.com](mailto:youremail@example.com)  
-- **LinkedIn:** [linkedin.com/in/ephremtesema](https://linkedin.com/in/ephremtesema)  
+- **Email:** [ephremtesema92@gmail.com](mailto:ephremtesema92@gmail.com)  
+<!--- **LinkedIn:** [linkedin.com/in/ephremtesema](https://linkedin.com/in/ephremtesema)  
 - **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
 
 ### ⚡ Fun fact
